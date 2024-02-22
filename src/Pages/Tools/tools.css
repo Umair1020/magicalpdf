@@ -1,0 +1,50 @@
+.kIWyxL {
+    display: block;
+    width: 100%;
+    background: rgb(255, 255, 255);
+}
+
+.bBiduW {
+    display: block;
+    margin: 0px auto;
+    padding: 10px;
+    max-width: 100%;
+}
+
+.hMPCkn {
+    display: block;
+    text-align: center;
+    padding: 4em 10px;
+}
+.hMPCkn h3 {
+    font-family: var(--serif);
+    font-weight: normal;
+    font-size: 48px;
+    padding: 0px 0px 20px;
+    line-height: 1.2;
+    color: rgb(0, 0, 0);
+}
+.hMPCkn p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: rgb(0, 0, 0);
+}
+.idESwB {
+    display: block;
+    margin-top: 30px;
+}
+.idESwB a:first-child {
+    background: rgb(255, 97, 47);
+    color: rgb(255, 255, 255);
+    border-radius: 4px;
+    padding: 7px 15px;
+    margin-right: 20px;
+}
+.idESwB a {
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.7;
+    max-width: 630px;
+    color: rgb(0, 0, 0);
+}
